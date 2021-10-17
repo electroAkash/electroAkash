@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Akash shakya 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning python,sql and arduino programming 
+- 
